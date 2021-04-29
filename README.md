@@ -1,11 +1,11 @@
 # CJC_Project
 
-Elementos:
-Flávio Silva nº26097
-André Nogueira nº37370
+⚫ Elementos:
+- Flávio Silva nº26097
+- André Nogueira nº37370
 
-Tema:
+🟢 Tema:
 - 2D Platformer Microgame
 
-Link Unity:
+🔵 Link Unity:
 https://learn.unity.com/project/2d-platformer-template?uv=2019.3

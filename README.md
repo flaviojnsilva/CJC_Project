@@ -1,4 +1,4 @@
-# CJC_Project
+# Projeto Concepção Jogos de Computador (CJC)
 
 ⚫ Elementos:
 - Flávio Silva nº26097
